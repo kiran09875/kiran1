@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+</head>
+<body>
+    <title><BCA PROFESSIONAL</B></title>
+        <STYLE>
+        !*element  selector*/
+        p,h2{
+            color:purple;
+font-size;30px;
+font-family: cursive:
+border:1px solid red;
+background-color: slategray;
+padding: 20px;
+ }
+ body{
+    background-color: purple;
+ }
+ .menu{
+    height: 50px;
+    background-color: green;
+ }
+        </STYLE>
+        </head>
+        <body>
+            <div class="menu"></div>
+            <!_ _ main basic html tag>
+            <!_ _ heading level TAGS UPTO 3 level-->
+         <h1>heading</h1>
+    <h2>heading</h2>
+    <h3>heading</h3>
+    <hr color="red" size="5">
+
+<!_ _<font>color="blue" face="lucida calligraphy" size="25">
+    <!_ _<p style=""color: brown;font-size: 20px;">
+        <p style="color: red;",font-family:courier New';font-size;">Football is one of the oldest sports globally, which is played between two teams using only one football. In the United States, it is also called soccer, and some of the most prominent players in the world are from Spain, France, Argentina, South Africa, Germany, Japan, etc. The players, as well as the spectators, are highly enthusiastic during the game. The football match is played with only two goalposts, a field and a football. It is a 90-minute game in which two teams, with each team having eleven members, are required to play.
+
+            This sport is played across the world, and also, a lot of schools and colleges conduct football tournaments. There are many inter-school/college football matches. It is commonly regarded as one of the best outdoor sports. The FIFA World Cup is conducted every four years, which is the most awaited championship for millions of people. Teams from all around the world participate. Football enthusiasts wait eagerly to watch their favourite players score wonderful goals. As for India, Baichung Bhutia, the former captain of the Indian football team, was the greatest player in the country’s history. He is also known as the Indian Football Torchbearer.
+        </p>
+    </font>
+       
+
+    <p></p>"
+    </font>
+</body>
+</html>
+ 
